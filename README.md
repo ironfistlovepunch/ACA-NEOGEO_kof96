@@ -1,7 +1,7 @@
 # ACA-NEOGEO_kof96
 # kof96.bat
 KOF '96 アケアカNEOGEO
-(Android)
+(Android)  
 https://play.google.com/store/apps/details?id=com.snk.acakof96  
 確認バージョン  
 バージョン 1.2.1  
