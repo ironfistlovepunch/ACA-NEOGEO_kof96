@@ -1,4 +1,4 @@
-REM fatfury3
+REM kof96
 REM SROM
 copy 2F4448 214-s1.s1
 copy /b 214-s1.s1+
